@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikas Gautam
-- 👀 I’m interested in open source communities for Big Data and Cloud Computing technologies
-- 🌱 I’m currently learning Terraform and how to use it to provision infrastructure on the cloud
-- 💞️ I’m looking to collaborate on Big Data and Cloud Computing technologies
+- 👀 I’m interested in open source communities for Artificial Intelligence, Big Data and Cloud Computing technologies
+- 🌱 I’m currently learning Langchain and how to use it for agentic implementations
+- 💞️ I’m looking to collaborate on AI, ML, Big Data and Cloud Computing technologies
 - 📫 You can reach me at vikas.gautam18@gmail.com
 
 <!---
